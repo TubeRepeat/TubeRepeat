@@ -2,7 +2,7 @@
 
 Many of us use YouTube for more than entertainment. Whether it's learning a new song on guitar 🎸, practicing pronunciation in a foreign language 🌎, following a dance tutorial 💃, or reviewing an educational lecture 📚, there are moments when replaying the same section over and over becomes part of the process.
 
-That's where TubeRepeat comes in.
+That's where [TubeRepeat](https://www.tuberepeat.ai/) comes in.
 
 TubeRepeat is a browser-based tool designed to make repeating YouTube videos easier and more precise. Instead of manually dragging the progress bar back every few seconds, users can create custom A-B loops and focus on the exact segment they want to practice or review.
 
